@@ -70,5 +70,5 @@ inputs:
     - High
     - Critical
 runs:
-  using: 'node12'
+  using: 'composite'
   main: 'src/main.js'
